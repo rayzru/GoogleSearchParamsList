@@ -36,4 +36,16 @@ tci=g:XXX,p:YYY
 glp=1
 uule=
 start=
+gbv=1 // js on|off
 igu=
+output=
+
+https://developers.google.com/custom-search/docs/xml_results#query-terms
+http://googlesystem.blogspot.ru/2006/07/meaning-of-parameters-in-google-query.html
+http://gqs-decoder.blogspot.ru/2013/08/google-referrer-query-strings-debunked-part-1.html
+http://www.seomanontroppo.com/google-news-analytics-stuff
+https://moz.com/ugc/the-ultimate-guide-to-the-google-search-parameters
+https://moz.com/ugc/geolocation-the-ultimate-tip-to-emulate-local-search
+https://yoast-mercury.s3.amazonaws.com/uploads/2007/07/google-url-parameters.pdf
+http://news.softpedia.com/news/Google-s-Reverse-Search-Page-Prank-Backfired-with-Security-Issue-478743.shtml
+http://stackoverflow.com/questions/23995700/what-is-the-porpose-of-the-google-search-parameter-gbv
